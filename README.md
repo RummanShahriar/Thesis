@@ -1,5 +1,5 @@
 ## 📊 Poster
 
-![Architecture](1.jpg)
+![Architecture](Poster.png)
 
 
